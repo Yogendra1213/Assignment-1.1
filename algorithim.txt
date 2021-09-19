@@ -1,0 +1,7 @@
+10, 1, 8, 3, 6, 5, 4, 7, x, y
+i=index value pf even place
+j= index value on odd place 
+n = number 
+Algorithim for x = n(on index i)-2
+Algorithim for y = n(on index j)
+2
